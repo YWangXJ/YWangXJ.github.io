@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.6cd22cf9.chunk.css",
-    "main.js": "/static/js/main.f64bee7f.chunk.js",
-    "main.js.map": "/static/js/main.f64bee7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.62a1ad62.js",
-    "runtime-main.js.map": "/static/js/runtime-main.62a1ad62.js.map",
+    "main.js": "/static/js/main.bbe64a03.chunk.js",
+    "main.js.map": "/static/js/main.bbe64a03.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.781dade7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.781dade7.js.map",
     "static/js/2.cca2386d.chunk.js": "/static/js/2.cca2386d.chunk.js",
     "static/js/2.cca2386d.chunk.js.map": "/static/js/2.cca2386d.chunk.js.map",
     "static/css/3.2f42733b.chunk.css": "/static/css/3.2f42733b.chunk.css",
-    "static/js/3.6194d02b.chunk.js": "/static/js/3.6194d02b.chunk.js",
-    "static/js/3.6194d02b.chunk.js.map": "/static/js/3.6194d02b.chunk.js.map",
+    "static/js/3.16a4406f.chunk.js": "/static/js/3.16a4406f.chunk.js",
+    "static/js/3.16a4406f.chunk.js.map": "/static/js/3.16a4406f.chunk.js.map",
     "static/css/4.18f0a633.chunk.css": "/static/css/4.18f0a633.chunk.css",
     "static/js/4.b6efecf2.chunk.js": "/static/js/4.b6efecf2.chunk.js",
     "static/js/4.b6efecf2.chunk.js.map": "/static/js/4.b6efecf2.chunk.js.map",
@@ -22,21 +22,21 @@
     "static/media/CUTC.jpeg": "/static/media/CUTC.35ad1714.jpeg",
     "static/media/Coursera.png": "/static/media/Coursera.de808e35.png",
     "static/media/ITSNJ.png": "/static/media/ITSNJ.500d4849.png",
-    "static/media/NBHub.jpg": "/static/media/NBHub.1eeabc5f.jpg",
+    "static/media/NBHub.jpg": "/static/media/NBHub.dfd15c6b.jpg",
     "static/media/SCUT.png": "/static/media/SCUT.8d7591bc.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d3.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445ca.svg",
     "static/media/docker.png": "/static/media/docker.c884bb50.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb2.svg",
-    "static/media/rutgers.png": "/static/media/rutgers.f8868c70.png",
+    "static/media/rutgers.png": "/static/media/rutgers.58ad843a.png",
     "static/media/skill.svg": "/static/media/skill.35a14766.svg",
     "static/media/TalkCard.css": "/static/media/talksCardBack.99241699.svg",
     "static/media/udacity.png": "/static/media/udacity.df5a9660.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.62a1ad62.js",
+    "static/js/runtime-main.781dade7.js",
     "static/js/2.cca2386d.chunk.js",
     "static/css/main.6cd22cf9.chunk.css",
-    "static/js/main.f64bee7f.chunk.js"
+    "static/js/main.bbe64a03.chunk.js"
   ]
 }
